@@ -1,2 +1,2 @@
 # cron-contributions
-Contributions to CRON Foundation
+Contributions to [CRON Foundation](http://cronfoundation.org)
